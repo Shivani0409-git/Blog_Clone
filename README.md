@@ -1,2 +1,2 @@
-# Blog_Clone
-Simple .. clone  Blog .
+# Flipr
+ demo_frontend
